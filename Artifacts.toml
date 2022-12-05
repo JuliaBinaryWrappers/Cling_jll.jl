@@ -1,0 +1,128 @@
+[[Cling]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "99a6f0eafdbfd561c893e2cdc9c03159d2cd56f6"
+libc = "glibc"
+os = "linux"
+
+    [[Cling.download]]
+    sha256 = "dc022ec5043373c740424f45e031a17994ad9f7885aa28149e908e15a6531a2c"
+    url = "https://github.com/JuliaBinaryWrappers/Cling_jll.jl/releases/download/Cling-v0.9.0+0/Cling.v0.9.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Cling]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a95ca8b018c11f86e6e7d42f946da2f3caa750d4"
+libc = "glibc"
+os = "linux"
+
+    [[Cling.download]]
+    sha256 = "ae8aa8df2119ad15873a6609b928ed080fec6f1cc201b5c2b0206283b235887f"
+    url = "https://github.com/JuliaBinaryWrappers/Cling_jll.jl/releases/download/Cling-v0.9.0+0/Cling.v0.9.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Cling]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "36a90f526eabf9b6ed158af9fb6ff8b217f92af7"
+libc = "musl"
+os = "linux"
+
+    [[Cling.download]]
+    sha256 = "49da91c6b3d712ae6b265298e7a333759a7eece1d7df2fc279dd1e17ac729e0d"
+    url = "https://github.com/JuliaBinaryWrappers/Cling_jll.jl/releases/download/Cling-v0.9.0+0/Cling.v0.9.0.aarch64-linux-musl-cxx03.tar.gz"
+[[Cling]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1cb92fe66992a19172772e54d288e6abaebfbf9b"
+libc = "musl"
+os = "linux"
+
+    [[Cling.download]]
+    sha256 = "4f5db7b6c4b36acf7bdaf671c9c6883aead59809dfc8515d4cc842cfd5a12523"
+    url = "https://github.com/JuliaBinaryWrappers/Cling_jll.jl/releases/download/Cling-v0.9.0+0/Cling.v0.9.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Cling]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "540a3ba912e626853ccf108158a649befcfa27e2"
+libc = "glibc"
+os = "linux"
+
+    [[Cling.download]]
+    sha256 = "155a08b2637a1c8b6a9b953257e0d936cf60d9d3e7de42b9068a27cbd80a1717"
+    url = "https://github.com/JuliaBinaryWrappers/Cling_jll.jl/releases/download/Cling-v0.9.0+0/Cling.v0.9.0.i686-linux-gnu-cxx03.tar.gz"
+[[Cling]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d1741317a04cf0c4aa9700bef5ff465f3b447a70"
+libc = "glibc"
+os = "linux"
+
+    [[Cling.download]]
+    sha256 = "63762e9821383fdaf531da0819bd41016b04318d490578dc16c6a92c683bf36f"
+    url = "https://github.com/JuliaBinaryWrappers/Cling_jll.jl/releases/download/Cling-v0.9.0+0/Cling.v0.9.0.i686-linux-gnu-cxx11.tar.gz"
+[[Cling]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ae9469835181c546bb55b4cf34f8dff7dcd9384d"
+libc = "musl"
+os = "linux"
+
+    [[Cling.download]]
+    sha256 = "3c1f7a08406aebeb66265dc89062771fd40e79a1ab335cae1f1ae3bc8c75af0b"
+    url = "https://github.com/JuliaBinaryWrappers/Cling_jll.jl/releases/download/Cling-v0.9.0+0/Cling.v0.9.0.i686-linux-musl-cxx03.tar.gz"
+[[Cling]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "acb20845b80ad695a697056554f341090b86733f"
+libc = "musl"
+os = "linux"
+
+    [[Cling.download]]
+    sha256 = "11712964618bcfc402f5784326a15983cb5537f8968bd35ae06806d946c38f35"
+    url = "https://github.com/JuliaBinaryWrappers/Cling_jll.jl/releases/download/Cling-v0.9.0+0/Cling.v0.9.0.i686-linux-musl-cxx11.tar.gz"
+[[Cling]]
+arch = "x86_64"
+git-tree-sha1 = "3902d0d9b05ee251f217bd3290d6d4d5f7b221fb"
+os = "macos"
+
+    [[Cling.download]]
+    sha256 = "78e14f5572e0a9205d008ba8ce15a29c94fc1b276624bb9adfbe0c1825a311e3"
+    url = "https://github.com/JuliaBinaryWrappers/Cling_jll.jl/releases/download/Cling-v0.9.0+0/Cling.v0.9.0.x86_64-apple-darwin.tar.gz"
+[[Cling]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fe6f2f5ae1b0427dcb5614be7c1d5735d5c57a85"
+libc = "glibc"
+os = "linux"
+
+    [[Cling.download]]
+    sha256 = "7abe149dcbeac5d267d5d440de0890f582e58327e9155297f46020a66fbb9b32"
+    url = "https://github.com/JuliaBinaryWrappers/Cling_jll.jl/releases/download/Cling-v0.9.0+0/Cling.v0.9.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Cling]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aca25ff794dc4521cbce8055d189dcd23537d78a"
+libc = "glibc"
+os = "linux"
+
+    [[Cling.download]]
+    sha256 = "74a83af1138ca2df887013464e6afcec28f445370e70b6b3f371d0441ff988df"
+    url = "https://github.com/JuliaBinaryWrappers/Cling_jll.jl/releases/download/Cling-v0.9.0+0/Cling.v0.9.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Cling]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7e509714897e0528dd1dbdff7c28a7ae3d648742"
+libc = "musl"
+os = "linux"
+
+    [[Cling.download]]
+    sha256 = "8b62b49613b6bfdd2c078cbd9ee64194972cfd0d1bceeef7dba6f3f18f7fb318"
+    url = "https://github.com/JuliaBinaryWrappers/Cling_jll.jl/releases/download/Cling-v0.9.0+0/Cling.v0.9.0.x86_64-linux-musl-cxx03.tar.gz"
+[[Cling]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "22c9219bac123dc6aba380c3bde67e794d1c5bf5"
+libc = "musl"
+os = "linux"
+
+    [[Cling.download]]
+    sha256 = "1d9bb257b51303447e35e0aa9ca1a4ffec1ab0d97a54bcb1949f3e7f1ce69277"
+    url = "https://github.com/JuliaBinaryWrappers/Cling_jll.jl/releases/download/Cling-v0.9.0+0/Cling.v0.9.0.x86_64-linux-musl-cxx11.tar.gz"
